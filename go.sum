@@ -4,3 +4,5 @@ github.com/j178/tiktoken-go v0.2.1 h1:bs8z+tj8YEYtFKOtUsyIUwnnsIfNb+UgdGEJX/HkTB
 github.com/j178/tiktoken-go v0.2.1/go.mod h1:hmh16kk7mgUq7Jc7eVHoU06MsjsfUk+VVMSUypPurjU=
 github.com/sashabaranov/go-openai v1.5.8 h1:EfNEmc+Ue+CuRy7iSpNdxfHyiOv2vQsQ2Y0kZRA/z5w=
 github.com/sashabaranov/go-openai v1.5.8/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
+github.com/sashabaranov/go-openai v1.8.0 h1:IZrNK/gGqxtp0j19F4NLGbmfoOkyDpM3oC9i/tv9bBM=
+github.com/sashabaranov/go-openai v1.8.0/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
